@@ -1,3 +1,5 @@
+package Java_Quirks_And_Gotchas;
+
 /*
  * Why StringBuilder is important to do String Manipulations and it is drop in replacement for StringBuffer introduced in Java 1.5.
  * The two are identical except the StringBuffer synchronizes all the operations that we dont need always.
